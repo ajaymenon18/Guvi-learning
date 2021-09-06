@@ -1,7 +1,5 @@
 # Guvi-learning
-# Adding new functionality and relearning about the github 
-# ipsum lorem das dsad 
-# New readme is added to the program
+# This repository consists of learnings undergone in the GUVI Course. 
 Direct repo channges 
 
 # Set-ExecutionPolicy -Scope CurrentUser -ExecutionPolicy Unrestricted  this is for the the vm if it gets stuck
